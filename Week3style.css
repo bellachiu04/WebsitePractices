@@ -1,0 +1,22 @@
+p:nth-child(2) {
+  color: orange;
+}
+
+div:nth-child(2) {
+//  margin: 10px 20px;
+  padding-top: 10px;
+  padding-left: 50px;
+}
+
+#first {
+  color: blue;
+  font-size: 20px;
+}
+
+.stupid {
+  background: red;
+}
+
+.smart {
+  border: 5px dashed black;
+}
